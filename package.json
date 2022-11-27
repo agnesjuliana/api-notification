@@ -1,0 +1,31 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "try.js",
+  "scripts": {
+    "start": "node index.js",
+    "start dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "confidence": "^5.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "logger": "^0.0.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20",
+    "validate.js": "^0.13.1",
+    "web-push": "^3.5.0",
+    "winston": "^3.8.2"
+  }
+}
