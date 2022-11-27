@@ -11,6 +11,5 @@
         "src": "/(.*)",
         "dest": "index.js"
       }
-    ],
-    "lockfileVersion": 2
+    ]
   }
