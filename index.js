@@ -15,6 +15,7 @@ app.use(bodyParser.json())
 
 
 
+
 webpush.setVapidDetails('mailto:mercymeave@section.com', publicVapidKey,privateVapidKey);
 
 //subscribe route
